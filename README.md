@@ -2,7 +2,7 @@
 
 This repository contains a Python implementation of a Preference Abstract Framework (PAF) proposed by Amgoud & Cayrol in 2002 read the following article:
 ```
-nameHere.pdf
+Amgoud&Cayrol.2002.pdf
 ```
 To test the implementation run the example in example-PAF.py file:
 ```
